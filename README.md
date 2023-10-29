@@ -16,4 +16,11 @@
   
 * Create a Tea class in Java that includes the following methods:
   ## File Name : 5\Main.java
-  ## File Name : 5\Circle.java
+  ## File Name : 5\Tea.java
+  
+* Create three subclasses of the Tea class: BlackTea, GreenTea, and HerbalTea. Each subclass should override the prepareTea() method to prepare the specific type of tea (black tea, green tea, or herbal tea) with appropriate ingredients and brewing times.
+  ## File Name : 6\Main.java
+  ## File Name : 6\Tea.java
+  ## File Name : 6\BlackTea.java
+  ## File Name : 6\GreenTea.java
+  ## File Name : 6\HerbalTea.java
