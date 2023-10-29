@@ -9,3 +9,7 @@
 * Create a class circle class with radius as data member. Create two constructors (no argument, and two arguments) and a method to calculate Circumference.
   ## File Name : 3\Main.java
   ## File Name : 3\Circle.java
+  
+* Create a class Account class with balance as data member. Create two constructors (no argument, and two arguments) and methods to withdraw and deposit balance.
+  ## File Name : 4\Main.java
+  ## File Name : 4\Circle.java
