@@ -6,6 +6,10 @@
   ## File Name : 1\Main.java
   ## File Name : 1\Person.java
   
+* From the below image, Create an implementation for a java class named Employee that represents an employee with attributes including ID, name, and salary. The class includes a method called raiseSalary(percent), which updates the salary by a specified percentage.
+  ## File Name : 2\Main.java
+  ## File Name : 2\Employee.java
+  
 * Create a class circle class with radius as data member. Create two constructors (no argument, and two arguments) and a method to calculate Circumference.
   ## File Name : 3\Main.java
   ## File Name : 3\Circle.java
